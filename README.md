@@ -4,7 +4,7 @@
 
 **Purpose**
 
-Create a series of charts that illustrates the efficacy of various drugs in regard to reducing tumor growth. Present the rsults on HTML.
+Create a series of charts that illustrates the efficacy of various drugs in regard to reducing tumor growth. Present the results on HTML.
 
 **Background**
 
